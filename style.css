@@ -47,7 +47,7 @@ img {
 
 @media  (max-width :1000px) {
     .timer-container {
-        margin-left: 20px;
+        margin-left: 10px;
         margin-top: 50px;
         min-width:110px;
         flex-flow:wrap;
